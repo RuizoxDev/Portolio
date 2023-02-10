@@ -1,0 +1,37 @@
+span.alberto {
+    color: rgb(32, 164, 204)
+    
+}
+
+body {
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 30px;
+    background: linear-gradient(-50deg, #abe9ff, #f6dfff);
+}
+
+.centro {
+    position: absolute;
+    top: 30%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50px;
+}
+
+.portfolio {
+    color: rgb(6, 14, 94)
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: rgb(104, 212, 245);
+    border: none;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color:  rgb(32, 164, 204);
+    cursor: pointer;
+}
